@@ -16,16 +16,7 @@ The main goal of this project is to showcase how LSTM networks can capture the t
 ![image](https://user-images.githubusercontent.com/25248102/220925879-06ca42fa-b6c2-47bf-b5b4-0ea5347c2b49.png)
 
 ## Requirements
-
-To run this notebook, you will need the following libraries:
-
-- numpy
-- pandas
-- matplotlib
-- sklearn
-- tensorflow
-
-You can install them using pip or conda.
+To run this notebook, you will need to run the requirements.txt
 
 ## Usage
 To run this notebook, simply clone this repository and open it in Jupyter Notebook or Google Colab. You can also view it on GitHub.
